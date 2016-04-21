@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <copyright>Copyright © Pandora Jewelry</copyright>
+    <description>$description$</description>
+    <language>en-US</language>
+    <projectUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.TopicTrigger</projectUrl>
+    <licenseUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.TopicTrigger/blob/master/LICENSE</licenseUrl>
+    <iconUrl>http://www.gravatar.com/avatar/c014c4efbad99616d9687c5b5df3717e.png</iconUrl>
+    <tags>"Pandora Jewelry" Azure WebJobs Jobs Extensions ServiceBus</tags>
+  </metadata>
+</package>
