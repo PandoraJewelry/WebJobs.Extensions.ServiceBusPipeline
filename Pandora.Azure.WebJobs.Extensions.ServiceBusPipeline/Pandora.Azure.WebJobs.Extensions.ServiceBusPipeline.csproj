@@ -92,7 +92,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MessagingPipelineProvider.cs" />
-    <Compile Include="Processors\HalfLifeRenewMessageProcessor.cs" />
     <Compile Include="Processors\ServiceBusPipelineProcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
