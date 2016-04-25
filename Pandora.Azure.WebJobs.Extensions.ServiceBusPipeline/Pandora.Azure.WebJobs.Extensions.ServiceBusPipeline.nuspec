@@ -10,6 +10,6 @@
     <projectUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.TopicTrigger</projectUrl>
     <licenseUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.TopicTrigger/blob/master/LICENSE</licenseUrl>
     <iconUrl>http://www.gravatar.com/avatar/c014c4efbad99616d9687c5b5df3717e.png</iconUrl>
-    <tags>"Pandora Jewelry" Azure WebJobs Jobs Extensions ServiceBus</tags>
+    <tags>PandoraJewelry Azure WebJobs Jobs Extensions ServiceBus</tags>
   </metadata>
 </package>
