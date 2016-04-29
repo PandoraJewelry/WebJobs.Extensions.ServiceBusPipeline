@@ -7,8 +7,8 @@
     <copyright>Copyright © Pandora Jewelry</copyright>
     <description>$description$</description>
     <language>en-US</language>
-    <projectUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.TopicTrigger</projectUrl>
-    <licenseUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.TopicTrigger/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.ServiceBusPipeline</projectUrl>
+    <licenseUrl>https://github.com/PandoraJewelry/WebJobs.Extensions.ServiceBusPipeline/blob/master/LICENSE</licenseUrl>
     <iconUrl>http://www.gravatar.com/avatar/c014c4efbad99616d9687c5b5df3717e.png</iconUrl>
     <tags>PandoraJewelry Azure WebJobs Jobs Extensions ServiceBus</tags>
   </metadata>
